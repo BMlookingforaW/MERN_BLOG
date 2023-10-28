@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage":"https://mern-blog-client-ibs4hivxp-bharats-projects-9df23076.vercel.app" ,
+  "homepage":"https://mern-blog-client-git-master-bharats-projects-9df23076.vercel.app/" ,
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
